@@ -1,6 +1,6 @@
 <h1> Olá! Me chamo Beatriz....Estou seguindo o caminho para me especializar em Back-End👨‍💻</h1>
 
-<h4>•🤔 Explorando mais sobre programação!
+<h4>•🤔 Explorando mais sobre programação.
   
   •🎓 Estudando com Alura.    
   •🌱 Aprendendo mais sobre python.</h4> 
