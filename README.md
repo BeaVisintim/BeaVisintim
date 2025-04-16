@@ -2,12 +2,12 @@
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW54dDA4eHJqajRpeWRhaXA0bTNsa2RzMGl1MWwxa2o3OXNsMjFscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
-<h1> Olá! Me chamo Beatriz....Estou seguindo o caminho para me especializar em Back-End👨‍💻</h1>
+ <h1>Sobre mim:</h1>
 
-<h4>•🤔 Explorando mais sobre programação.
+<h3>•🤔 Explorando mais sobre programação.
   
   •🎓 Estudando com Alura.    
-  •🌱 Aprendendo mais sobre python.</h4> 
+  •🌱 Aprendendo mais sobre python.</h3> 
   
 <br clear="both">
 
