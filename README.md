@@ -8,9 +8,12 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeaVisintim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeaVisintim&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BeaVisintim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=pt-br&hide_border=false&border_radius=30"" height="135" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=BeaVisintim&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=30" height="135" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeaVisintim&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&border_radius=30"" height="135" alt="languages graph"  />
 </div>
+
+###
 
 ###
 
